@@ -17,7 +17,7 @@ The initial pattern constitutes the seed of the system. The first generation is 
 
 ## Demonstration
 
-- Update with demo
+- Update with gif
 
 ## How to run on your machine
 
