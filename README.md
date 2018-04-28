@@ -17,7 +17,16 @@ The initial pattern constitutes the seed of the system. The first generation is 
 
 ## Demonstration
 
-- Update with gif
+#### App User Interface
+
+![](https://github.com/mgit7/GameOfLife/blob/master/GameOfLifeUI.gif)
+
+
+#### App Demo Simulation
+
+![](https://github.com/mgit7/GameOfLife/blob/master/GameOfLifeSimulation.gif)
+
+
 
 ## How to run on your machine
 
